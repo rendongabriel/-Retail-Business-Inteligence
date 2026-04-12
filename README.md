@@ -55,5 +55,37 @@ I organized the data into Fact and Dimension tables to ensure data integrity and
 | total_orders | Integer |
 | total_spent_dollars | Numeric (10,2) |
 
+## Querys SQL by PostgreSQL 💻
+
+### Query 1:
+* Crack de los 3 postes
+### Query 2:
+
+### Query 3:
+
+### Query 4:
+
+### Query 5:
+
+### Query 6:
+
+### Query 7:
+
+### Query 8:
+
+### Query 9:
+
+### Query 10:
+
+### Query 11:
+
+### Query 12:
+
+### Query 13:
+
+### Query 14:
+
+### Query 15:
+
 
 
