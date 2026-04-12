@@ -55,7 +55,7 @@ I organized the data into Fact and Dimension tables to ensure data integrity and
 | total_orders | Integer |
 | total_spent_dollars | Numeric (10,2) |
 
-## Querys SQL by PostgreSQL 💻
+## Queries SQL by PostgreSQL 💻
 
 ### Query 1 💰:
 * Question that we should answer: How much did we sell in total, and how are sales distributed by month and year?
