@@ -57,39 +57,62 @@ I organized the data into Fact and Dimension tables to ensure data integrity and
 
 ## Queries SQL by PostgreSQL 💻
 
+_Consider that our code was made by PostgreSQL. If you want to see the code, look at the file named as Queries Obtained_
+
 ### Query 1 💰:
 * Question that we should answer: How much did we sell in total, and how are sales distributed by month and year?
 * This query is important because it helps analyze overall sales performance and identify how revenue is distributed across different months and years. By aggregating total sales and grouping them by month, it allows businesses to detect seasonal trends, peak sales periods, and potential low-performance months. This insight supports better decision-making in areas such as marketing strategies, inventory planning, and resource allocation.
 
-_Consider that our code was made by PostgreSQL. If you want to see the code, look at the file named as Queries Obtained_
 ### Query 2:
-
+* Question that we should answer: What percentage of total sales comes from returning customers versus new customers?
+* 
 
 ### Query 3:
+* Question that we should answer: Which cities generate the most revenue but have lower customer satisfaction, representing a potential business risk?
+* 
 
 ### Query 4:
+* Question that we should answer: Which product categories have high sales volume but a low average ticket?
+* 
 
 ### Query 5:
+* Question that we should answer: Which product categories show the highest month-over-month sales growth, and what is their percentage variation?
+* 
 
 ### Query 6:
+* Question that we should answer: Which cities account for 80% of total sales (Pareto rule)?
+* 
 
 ### Query 7:
+* Question that we should answer: Which categories have high total sales but a low returning customer rate?
+* 
 
 ### Query 8:
+* Question that we should answer: Which cities have above-average delivery times and still maintain a higher-than-average returning customer rate?
+* 
 
 ### Query 9:
+* Question that we should answer: Which categories have an average ticket higher than the overall business average?
+* 
 
 ### Query 10:
+* Question that we should answer: Which cities have more unique customers than the average number of customers per city?
+* 
 
 ### Query 11:
+* Question that we should answer: Which categories exceed the business’s annual average sales in each year?
+* 
 
 ### Query 12:
+* Question that we should answer: Which cities have a share of total sales that exceeds the average share across all cities?
+* 
 
 ### Query 13:
+* Question that we should answer: Which categories have a returning customer rate above the business average but an average ticket below the global average?
+* 
 
 ### Query 14:
-
-### Query 15:
-
+* Question that we should answer: Which cities have experienced positive sales growth for at least two consecutive months?
+* 
 
 
