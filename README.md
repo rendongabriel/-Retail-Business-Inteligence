@@ -61,7 +61,7 @@ I organized the data into Fact and Dimension tables to ensure data integrity and
 * Question that we should answer: How much did we sell in total, and how are sales distributed by month and year?
 * This query is important because it helps analyze overall sales performance and identify how revenue is distributed across different months and years. By aggregating total sales and grouping them by month, it allows businesses to detect seasonal trends, peak sales periods, and potential low-performance months. This insight supports better decision-making in areas such as marketing strategies, inventory planning, and resource allocation.
 
-_Consider that our code was made by PostgreSQL. If you want to see the code, look at the file named as Queries Obtained
+_Consider that our code was made by PostgreSQL. If you want to see the code, look at the file named as Queries Obtained_
 ### Query 2:
 
 
