@@ -126,4 +126,171 @@ They also help uncover critical patterns such as customer retention, purchasing 
 Moreover, the use of comparative metrics (averages, growth rates, and percentages) supports benchmarking and prioritization, ensuring that decisions are based on performance gaps and opportunities. This makes it easier to allocate resources effectively and focus on high-impact strategies.
 Overall, this set of queries empowers data-driven decision-making in key retail areas such as pricing, marketing, inventory management, customer experience, and geographic expansion, ultimately driving profitability, competitiveness, and sustainable business growth.
 
+# 🛍️ Retail Business Intelligence Project
+
+### End-to-End Data Analysis for Strategic Decision-Making
+
+This project presents a complete Business Intelligence solution designed to transform raw retail transaction data into actionable insights. It combines data modeling, SQL analytics, and business-oriented thinking to support data-driven decision-making in a retail environment.
+
+---
+
+## 🏗️ Data Model & Architecture
+
+To ensure scalability, consistency, and analytical performance, the data was structured using a **star schema model**, separating transactional data from descriptive attributes.
+
+### 🔹 Fact Table: `fact_sales`
+
+This table contains all transactional metrics and serves as the core of the analysis.
+
+| Column | Description |
+|------|------------|
+| order_id | Unique identifier for each order |
+| date_id | Foreign key linked to the date dimension |
+| customer_id | Identifier of the customer |
+| product_id | Identifier of the product |
+| quantity | Number of items purchased |
+| unit_price | Price per unit |
+| discount_amount | Discount applied per product |
+| total_amount | Final transaction value after discounts |
+| delivery_time_days | Delivery duration in days |
+| customer_rating | Customer satisfaction score (1–5) |
+| session_duration_minutes | Time spent on platform |
+| pages_viewed_website | Number of pages viewed |
+
+---
+
+### 🔹 Dimension Table: `dim_date`
+
+Provides temporal context for time-based analysis.
+
+| Column | Description |
+|------|------------|
+| date_id | Unique date key |
+| year | Year |
+| month | Month number |
+| month_name | Month name |
+| quarter | Quarter of the year |
+| day | Day of the month |
+| is_weekend | Weekend indicator |
+| week_of_year | Week number |
+
+---
+
+### 🔹 Dimension Table: `dim_products`
+
+Adds product-level context.
+
+| Column | Description |
+|------|------------|
+| product_id | Unique product identifier |
+| product_category | Product category |
+
+---
+
+### 🔹 Dimension Table: `dim_customers`
+
+Captures customer attributes and behavior.
+
+| Column | Description |
+|------|------------|
+| customer_id | Unique customer identifier |
+| age | Customer age |
+| gender | Customer gender |
+| city | Customer location |
+| is_returning_customer | Indicates if the customer is recurring |
+| first_order_date | First purchase date |
+| last_order_date | Most recent purchase |
+| total_orders | Total number of orders |
+| total_spent_dollars | Lifetime value |
+
+---
+
+## 📊 Business Questions & SQL Analysis
+
+The following queries were designed to answer key business questions in a retail context, focusing on revenue, customer behavior, and operational efficiency.
+
+### 💰 Revenue & Market Performance
+
+- What are the total sales and how are they distributed over time?  
+- Which cities generate the highest revenue and average ticket size?  
+- Which cities contribute the most to overall sales (Pareto analysis)?  
+
+**Impact:** Identifies key revenue drivers and supports geographic prioritization.
+
+---
+
+### 👥 Customer Behavior & Retention
+
+- What percentage of sales comes from returning vs new customers?  
+- Which categories have high sales but low retention rates?  
+- Which segments show strong loyalty but low spending?  
+
+**Impact:** Helps improve customer lifetime value and optimize retention strategies.
+
+---
+
+### 📦 Product Performance
+
+- Which categories have high volume but low average ticket?  
+- Which categories outperform the annual average?  
+- Which categories show the highest growth over time?  
+
+**Impact:** Supports pricing strategies, promotions, and inventory planning.
+
+---
+
+### 🚚 Operations & Customer Experience
+
+- Which cities have long delivery times but still retain customers?  
+- Where does poor satisfaction represent a business risk?  
+
+**Impact:** Links operational efficiency with customer satisfaction and retention.
+
+---
+
+### 📈 Growth & Strategic Insights
+
+- Which cities show consistent positive growth?  
+- Which markets exceed average participation in total sales?  
+
+**Impact:** Enables identification of stable and high-potential markets for expansion.
+
+---
+
+## 🧠 Key Insights
+
+This project demonstrates how SQL and data modeling can be used to:
+
+- Identify high-performing markets and products  
+- Detect risks related to customer satisfaction and operations  
+- Understand customer behavior and retention patterns  
+- Track growth trends and performance over time  
+- Apply business concepts such as Pareto analysis and benchmarking  
+
+---
+
+## 🚀 Business Value
+
+By combining structured data modeling with advanced SQL queries, this project enables:
+
+- Data-driven decision-making  
+- Optimization of pricing and marketing strategies  
+- Improved inventory and demand planning  
+- Enhanced customer experience and retention  
+- Strategic expansion based on performance insights  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Database:** PostgreSQL  
+- **Language:** SQL  
+- **Modeling Approach:** Star Schema  
+- **Techniques:** CTEs, Window Functions, Aggregations, Business KPIs  
+
+---
+
+## 📌 Final Thoughts
+
+This project reflects a real-world Business Intelligence workflow, where technical skills are combined with business understanding to generate meaningful insights. It showcases the ability to go beyond raw data and deliver strategic value in a retail environment.
 
