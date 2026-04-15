@@ -1,10 +1,17 @@
 # 🛍️ Retail Business Intelligence Project
 
-### End-to-End Data Analysis for Strategic Decision-Making
+## 🚀 Full-Stack Engineering & Strategic Data Ecosystem
 
-This project presents a complete Business Intelligence solution designed to transform raw retail transaction data into actionable insights. It combines data modeling, SQL analytics, and business-oriented thinking to support data-driven decision-making in a retail environment.
+This project demonstrates a complete data lifecycle: from low-level optimization and scalable backend architecture to advanced business intelligence. It bridges the gap between raw code and executive decision-making.
 
 ---
+
+## 🛠️ Tech Stack & Core Utility
+* ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) **SQL:** Advanced querying for Complex ETL (Extract, Transform, Load) processes.
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL:** Primary relational database for fast, transactional web data storage.
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL:** Used for complex analytical workloads and advanced data integrity.
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub:** Version control, CI/CD pipelines, and collaborative management of data scripts and models.
+* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI:** Data modeling and interactive storytelling through high-impact dashboards.
 
 ## 🏗️ Data Model & Architecture
 
@@ -145,14 +152,55 @@ By combining structured data modeling with advanced SQL queries, this project en
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🖥️ Data Visualization through Power BI
 
-- **Database:** PostgreSQL  
-- **Language:** SQL  
-- **Modeling Approach:** Star Schema  
-- **Techniques:** CTEs, Window Functions, Aggregations, Business KPIs  
+## 📊 Strategic Analytics Framework (DAX)
+
+I curated a selection of **15 critical measures** designed to move beyond simple reporting into **Predictive and Diagnostic Analytics**.
+
+### 🟢 Business Performance (Efficiency Metrics)
+* **Total Sales / Orders / Quantity:** Monitoring the core volume of the operation.
+* **Average Ticket:** Analyzing customer purchasing power per transaction.
+* **Orders per Customer:** Measuring purchase frequency and engagement.
+
+### 🔵 Customer Value & Contribution (ROI)
+* **Revenue per Customer & CLV:** Determining the long-term profitability of the user base.
+* **Participation %:** Understanding market share within internal categories.
+* **Top 20% Revenue Share (Pareto):** Identifying the vital segment that drives 80% of revenue.
+
+### 🟣 Retention & Behavior (Loyalty)
+* **Returning Customer Rate:** Quantifying the success of retention strategies.
+* **Active Month Ratio:** Tracking user consistency over fiscal periods.
+
+### 🟡 Risk & Stability (Financial Health)
+* **Revenue Stability:** Assessing income volatility to ensure predictable cash flow.
+* **Category Dependence:** Identifying if the business relies too heavily on a single product line.
+
+### 🔴 Growth (Scalability)
+* **Growth Percentage:** Measuring MoM (Month over Month) and YoY (Year over Year) expansion.
 
 ---
+
+## 💡 Key Business Insights
+
+> [!TIP]
+> **Concentration Risk Analysis:** The Pareto analysis reveals that **20% of customers generate ~X% of total revenue**. This indicates a high reliance on a specific segment. Recommendation: Implement a VIP loyalty program to secure this revenue while diversifying acquisition channels.
+
+---
+
+## ⚙️ How It Works
+
+1.  **Data Layer:** Transactional data is stored in **MySQL** and **PostgreSQL**.
+2.  **Logic Layer:** **Laravel** and **Node.js** manage the data flow and business rules.
+3.  **DevOps & Versioning:** All code, SQL scripts, and DAX documentation are managed via **GitHub** for auditability and CI/CD.
+4.  **Intelligence Layer:** Data is consumed by **Power BI**, using a **Star Schema** model to ensure lightning-fast DAX calculations.
+
+---
+
+## 📬 Contact
+* **Name:** Gabriel Alejandro Rendón Hurtado
+* **Role:** Data Analyst
+* **LinkedIn:** [Your Profile Link]
 
 ## 📌 Final Thoughts
 
