@@ -7,11 +7,11 @@ This project demonstrates a complete data lifecycle: from low-level optimization
 ---
 
 ## 🛠️ Tech Stack & Core Utility
-* ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) **SQL:** Advanced querying for Complex ETL (Extract, Transform, Load) processes.
-* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL:** Primary relational database for fast, transactional web data storage.
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL:** Used for complex analytical workloads and advanced data integrity.
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub:** Version control, CI/CD pipelines, and collaborative management of data scripts and models.
-* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI:** Data modeling and interactive storytelling through high-impact dashboards.
+* ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) :Advanced querying for Complex ETL (Extract, Transform, Load) processes.
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) :Primary relational database for fast, transactional web data storage.
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) :Used for complex analytical workloads and advanced data integrity.
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) :Version control, CI/CD pipelines, and collaborative management of data scripts and models.
+* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) :Data modeling and interactive storytelling through high-impact dashboards.
 
 ## 🏗️ Data Model & Architecture
 
@@ -200,7 +200,8 @@ I curated a selection of **15 critical measures** designed to move beyond simple
 ## 📬 Contact
 * **Name:** Gabriel Alejandro Rendón Hurtado
 * **Role:** Data Analyst
-* **LinkedIn:** [Your Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/gabriel-alejandro-rend%C3%B3n-hurtado-56157a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 ## 📌 Final Thoughts
 
