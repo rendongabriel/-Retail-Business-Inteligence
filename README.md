@@ -1,5 +1,11 @@
 # 🛍️ Retail Business Intelligence Project
 
+https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true
+
+<p align="center">
+  <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true" width="900" alt="Executive Dashboard Preview">
+</p>
+
 ## 🚀 Full-Stack Engineering & Strategic Data Ecosystem
 
 This project demonstrates a complete data lifecycle: from low-level optimization and scalable backend architecture to advanced business intelligence. It bridges the gap between raw code and executive decision-making.
