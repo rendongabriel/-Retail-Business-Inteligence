@@ -3,7 +3,6 @@
   <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true" width="900" alt="Executive Dashboard Preview">
 </p>
 <p align="center">
-  <img src="<p align="center">
   <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true" width="900" alt="Executive Dashboard Preview">
 </p>
 
