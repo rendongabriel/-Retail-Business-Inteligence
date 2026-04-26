@@ -1,10 +1,4 @@
 # 🛍️ Retail Business Intelligence Project
-<p align="center">
-  <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence.png?raw=true" width="900" alt="Executive Dashboard Preview">
-</p>
-<p align="center">
-  <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true" width="900" alt="Executive Dashboard Preview">
-</p>
 
 ## 🚀 Full-Stack Engineering & Strategic Data Ecosystem
 
@@ -159,6 +153,12 @@ By combining structured data modeling with advanced SQL queries, this project en
 ---
 
 # 🖥️ Data Visualization through Power BI
+<p align="center">
+  <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence.png?raw=true" width="900" alt="Executive Dashboard Preview">
+</p>
+<p align="center">
+  <img src="https://github.com/rendongabriel/-Retail-Business-Inteligence/blob/main/Retail%20Business%20Inteligence%202.png?raw=true" width="900" alt="Executive Dashboard Preview">
+</p>
 
 ## 📊 Strategic Analytics Framework (DAX)
 
